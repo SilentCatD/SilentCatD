@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 🔭 In my freetime, I develop packages for community<br>
-👯 I’m looking to collaborate on any of my open sources<br>
+👯 I’m looking to collaborate on any open sources<br>
 🌱 I’m currently learning Fullstack development<br>
 💬 Ask me about Tokens, OAuth2, Flutter, Design Pattern, Architecture, Security<br>
 
